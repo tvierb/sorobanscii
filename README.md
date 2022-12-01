@@ -1,5 +1,5 @@
 # Command line soroban
 
-Licence: GPL
+Licence: WTFPL http://www.wtfpl.net/
 
 TODO docs
