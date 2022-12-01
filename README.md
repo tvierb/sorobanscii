@@ -8,6 +8,8 @@ What to do:
 * TODO make all commands "word"s to have uppercase letters for columns
 * TODO combine actions like "j-3i+1" to add 10
 * TODO ?? j+ to add 1 to value in column j>?
+* TODO alternative unit columns: -[a]--b--c-[d]-...
+* TODO "help" and "?" commands
 
 ## Usage
 
